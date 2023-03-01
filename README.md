@@ -1,2 +1,2 @@
-# qr_code
+# qrcode
  
